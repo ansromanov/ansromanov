@@ -18,11 +18,6 @@ Rust, Linux (ALSA, Qt/QML, KDE), terminal UIs, AI agent workflows, CI/CD, Kubern
 - [serbian-split-translator](https://github.com/ansromanov/serbian-split-translator) - Bilingual Serbian reader for Chrome and Edge, Latin and Cyrillic to Russian or English.
 - [moncenter](https://github.com/ansromanov/moncenter) - DDC/CI monitor control panel for Linux (ddcutil + Qt/QML).
 
-## 👷 Currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
 ## 🔭 Latest releases
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
