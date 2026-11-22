@@ -2,7 +2,7 @@
 
 I'm a Lead Infrastructure Engineer focused on AI automation and orchestration, currently living in Belgrade, Serbia.
 
-I prefer small, boring systems that are easy to run and debug, and that auto-recover.
+I prefer small, boring systems that are easy to run and debug, and recover on their own.
 
 ## 👷 Currently working on
 
