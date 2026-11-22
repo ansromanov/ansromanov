@@ -1,6 +1,6 @@
-# Andrei Romanov
+## Hi there 👋 I'm Andrei
 
-Engineer in Belgrade, Serbia. Years of DevOps and cloud infrastructure work; these days I mostly write Rust: Linux desktop and audio tools, terminal apps, and tooling that keeps AI coding agents productive.
+I'm a Lead Infrastructure Engineer focused on AI automation and orchestration, currently living in Belgrade, Serbia.
 
 I like tools that do one job, stay out of the way, and never take an action they can't undo.
 
